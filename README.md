@@ -1,5 +1,5 @@
 # ARM Microcontroller Tetris – Custom Handheld System
-
+![alt text](images/IMG_3910.png)
 This project implements a fully self-contained, handheld Tetris system built on an ARM Cortex-M0 microcontroller and a custom-designed PCB.  
 The device integrates physical push-buttons, an analog slide-pot input, an ST7735R LCD, and audio output through a 12-bit DAC.
 
